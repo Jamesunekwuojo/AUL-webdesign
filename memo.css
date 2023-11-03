@@ -1,0 +1,46 @@
+body{
+    margin-top:80px ;
+    background: linear-gradient(to bottom,#faebd7, #00ff6a );
+}
+.bodydiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.tableborder{
+    border-collapse: collapse;
+    border: 1px solid black;
+    height: 40px;
+    width: 100vh;
+}
+.bottomText{
+    margin-right: 83vh;
+    margin-top: 20vh;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+input{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+    
+    
+}
+#headparagraph{
+    margin-left: 40vh;
+}
+img{
+    margin-left: 12vh;
+}
+#Input1, #Input2{
+    border: none;
+}
+#tablebottomText{
+    float: right;
+
+}
